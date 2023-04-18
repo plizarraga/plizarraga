@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Lizárraga 👋
 
-I'm a frontend developer with experience in Angular JavaScript, TypeScript, React, and Ruby on Rails. I am passionate about building web applications that are not only visually appealing but also intuitive, fast, and accessible.
+I'm a frontend developer with experience in Angular, JavaScript, TypeScript, React, and Ruby on Rails. I am passionate about building web applications that are not only visually appealing but also intuitive, fast, and accessible.
 
 ## Skills and Expertise
 - Angular
