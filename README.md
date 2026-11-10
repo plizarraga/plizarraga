@@ -1,7 +1,7 @@
 # Pedro Lizárraga
 
 **Senior Software Engineer | Full-Stack** · TypeScript, Node.js, React, Angular & GraphQL\
-Mexicali, Mexico · Remote
+Mexicali, Baja California, Mexico · Remote
 
 I'm Pedro Lizárraga, a Senior Software Engineer with 15+ years of experience building scalable, reliable web applications across healthcare, e-commerce, finance, transportation, and government. I conduct code reviews and mentor engineers in cross-functional Agile teams.
 
