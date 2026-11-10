@@ -5,7 +5,7 @@ Mexicali, Baja California, Mexico · Remote
 
 I'm Pedro Lizárraga, a Senior Software Engineer with 15+ years of experience building scalable, reliable web applications across healthcare, e-commerce, finance, transportation, and government. I conduct code reviews and mentor engineers in cross-functional Agile teams.
 
-- **Healthcare platforms:** GraphQL and Node.js services in TypeScript that integrate Epic FHIR and HL7 APIs, backed by PostgreSQL data models (Publicis Sapient, 2024–2026).
+- **Healthcare platforms:** GraphQL and Node.js services in TypeScript that integrate Epic FHIR APIs in an Apollo Federation graph, with PostgreSQL for notifications, preferences, and an Epic data cache (Publicis Sapient, 2024–2026).
 - **AI agents:** building an AI appointment agent with the Vercel AI SDK, tool calling, structured output, and automated evals on Cloudflare Workers (in development).
 - **B2B commerce:** Fender's dealer-facing commerce platform with Angular, GraphQL, and Node.js services on AWS Lambda (2016–2022).
 
@@ -17,12 +17,12 @@ I'm Pedro Lizárraga, a Senior Software Engineer with 15+ years of experience bu
 ## Tech stack
 
 - **Languages & frameworks:** TypeScript, JavaScript, Node.js, NestJS, Express.js, React, Next.js, Angular, Hono
-- **APIs:** GraphQL (Apollo Server), REST
+- **APIs:** GraphQL (Apollo Server, Apollo Federation), REST
 - **Databases:** PostgreSQL, MySQL, SQL Server, Prisma, Drizzle, Cloudflare D1
 - **Cloud:** AWS Lambda, Amazon S3, Azure AI Search, Azure Blob Storage, Cloudflare Workers
 - **AI engineering:** Vercel AI SDK, OpenAI APIs, tool calling, RAG
 - **Testing & delivery:** Jest, Vitest, Playwright, Testcontainers, Docker, GitHub Actions
-- **Healthcare:** FHIR, HL7, Epic FHIR
+- **Healthcare:** HL7 FHIR, Epic FHIR
 
 Certified **Apollo Graph Developer – Associate** (Apollo GraphQL, 2024).
 
