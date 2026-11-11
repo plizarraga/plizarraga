@@ -29,5 +29,6 @@ Certified **Apollo Graph Developer – Associate** (Apollo GraphQL, 2024).
 
 ## Contact
 
-- Email: [plizarraga86@gmail.com](mailto:plizarraga86@gmail.com)
+- Website: [pedrolizarraga.com](https://pedrolizarraga.com)
+- Email: [hello@pedrolizarraga.com](mailto:hello@pedrolizarraga.com)
 - LinkedIn: [linkedin.com/in/pedro-lizarraga-brambila](https://www.linkedin.com/in/pedro-lizarraga-brambila)
